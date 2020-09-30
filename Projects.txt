@@ -1,0 +1,246 @@
+
+
+       Text summarization  and  sentiments predictions using deep learning 
+
+
+
+     Create a web UI that will ask for topic name 
+
+
+     It must search on wiki 
+
+
+     Scrape the data from wiki and store it permanently 
+
+
+     Use NLP to summarize the topic or data you just searched 
+
+
+     Also predict the category of topic
+
+
+     Topic category is like , political , socical , flood etc 
+
+
+
+
+
+    2.     Create AI chatbot as your personal assistance  
+
+
+     Create webUI where you can chat with your bot
+
+
+     Bot must be oriented to your personal life problems
+
+
+     Define your personal intentes in chatbot 
+
+
+     You can use any of the bots platform like dialog flow , rasa , watson etc.
+
+
+    You need to collect the answer by bots and create a song recommendation from youtube 
+
+
+    Play that song and change it according to your chats 
+
+
+    Maintain user history in your webUI 
+
+
+
+
+
+
+
+
+
+
+
+    3.    Heart disease prediction and recommendation of nearby doctors
+
+
+    Create web UI that will take symptom as checkbox in html
+
+
+    Make sure it is already pre trained from some datasets
+
+
+    Datasets you can find in google or kaggle 
+
+
+    After prediction of heart disease 
+
+
+    Ask for your location and search the best doctor 
+
+
+    Recommend that doctor with their address and contact details 
+
+
+    Take feedback from that user and maintain your own data for next time recommendation 
+
+
+    Make all this on top of aws cloud 
+
+
+    .Use any of the best supervised learning algo and process the result after comparing the accuracy score 
+
+
+
+
+
+
+
+
+    4.    Save electricity by prediction tubelight or bulb status  
+
+
+     Create webui that will turn on camera and check for human presence 
+
+
+    If there is no human then check for tube light status 
+
+
+    Tube light status check be check by light intensity 
+
+
+    If tube light is on generate voice note 
+
+
+     Send email or whatsapp message to register user 
+
+
+     Show the graph of  performance of your code
+
+
+     In every 10 days  
+
+
+
+
+
+
+
+
+    5.   Hand gesture based task automation 
+
+
+     Create a webUI  to perform below given task 
+
+
+     Use hand gesture signs according to perform operations 
+
+
+     Take picture when at least 3 humans are there 
+
+
+     With some hand gesture play music 
+
+
+     Hand gesture with start taking voice input and do some task
+
+
+     Take picture and post in fb
+
+
+      Do any 5 object detection 
+
+
+
+
+
+    6.    Computer vision for sentiment analysis  using facial expression
+
+
+    Allow camera to take data form user input
+
+
+    Apply deep learning here
+
+
+    Analysis sentiment with respect to their facial expression 
+
+
+    Show face expression type on rectangle box 
+
+
+    Play youtube music accordingly 
+
+
+
+
+
+
+
+
+
+    7.   AI search for finding criminals
+
+
+      Train your system to recognize the particular faces
+
+
+      Train at least 10 most popular criminal 
+
+
+       Now take a group of pictures and find that criminal 
+
+
+       Check the accuracy 
+
+
+       You can use  any of the popular deep learning library for face recognition
+
+
+    After finding criminal recommend the worst jail for that criminal 
+
+
+    Make sure you have a proper UI for that where you can upload and analyze all these things
+
+
+
+
+
+    8.    AI  face meter that will predict your face during age of period
+
+
+     Take image as input and detect face
+
+
+     Show the range of age as slide meter 
+
+
+     Predict the face as per the age meter 
+
+
+     Save all the processing  images
+
+
+
+
+
+            9.    AI human face analysis 
+
+
+    Create a web ui where you can upload or live stream images
+
+
+    Identify all the humans 
+
+
+    Identify their age and gender 
+
+
+    Identify spike 
+
+
+    Color of eyes 
+
+
+
+
+
+
+
